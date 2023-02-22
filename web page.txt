@@ -1,5 +1,5 @@
 roles:
   Jerico James Madriaga - Commander 
-  Mark Rafael Fabros  - Diesigner 
+  Mark Rafael Fabros  - Designer 
   Daniella Oliquino  - Constructor
   Julianne Tubay  - content creator
