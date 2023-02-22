@@ -1,0 +1,5 @@
+roles:
+  Jerico James Madriaga - Commander 
+  Mark Rafael Fabros  - Diesigner 
+  Daniella Oliquino  - Constructor
+  Julianne Tubay  - content creator
