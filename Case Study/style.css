@@ -44,7 +44,7 @@ body {
     padding: 250px 0;
   }
    .hero-section:hover{
-    background-image: url('images/shein1235.png');
+    background-image: url('images/fin.png');
     transition: all .8s ease-in-out;
     
   }
