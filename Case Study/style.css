@@ -211,3 +211,44 @@
     margin: 0;
   }
   
+  .column {
+    position: relative;
+    margin-left: 5%;
+    width: 20%;
+    float:left ;
+  }
+  
+  
+  .column img {
+    width: 100%;
+    height: auto;
+  }
+  
+ 
+  .column .btn {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    padding: 6px 12px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+    opacity: 0;
+  }
+  
+  .column:hover .btn {
+    opacity: 1;
+  }
+
+  .image-gallery{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+  }
