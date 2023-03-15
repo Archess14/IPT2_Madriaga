@@ -182,6 +182,18 @@
   .product p {
     margin-bottom: 20px;
   }
+
+  /* banner */
+  .banner img {
+    width: 65%;
+    height: 65%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 5%;
+   }
+
   
   /* style gallery */
   .column {
