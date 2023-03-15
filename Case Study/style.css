@@ -211,6 +211,7 @@
     margin: 0;
   }
   
+  /* style gallery */
   .column {
     position: relative;
     margin-left: 5%;
@@ -218,6 +219,10 @@
     float:left ;
   }
   
+  .header-gallery{
+    text-align: center;
+    padding-top: 20px;
+  }
   
   .column img {
     width: 100%;
