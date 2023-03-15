@@ -37,12 +37,16 @@ body {
   }
   
   .hero-section {
-    background-image: url('hero.jpg');
+    background-image: url('images/sheinbg.jpg');
     background-size: cover;
     background-position: center;
-    color: #fff;
     text-align: center;
-    padding: 200px 0;
+    padding: 250px 0;
+  }
+   .hero-section:hover{
+    background-image: url('images/fin.png');
+    transition: all .8s ease-in-out;
+    
   }
   
   .hero-section h2 {
